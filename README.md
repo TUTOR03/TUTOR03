@@ -1,5 +1,5 @@
 ## Stukalov Artem
-#### Fullstack web developer
+### Fullstack web developer
 #### Hard skills:
 * Python
     * Django

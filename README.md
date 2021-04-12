@@ -1,35 +1,39 @@
 ## Stukalov Artem
 ### Fullstack web developer
+
 #### Skills:
-* Python
-    * Django
-        * REST Framework
-    * FastAPI
-    * Flask
+* [Python](https://www.python.org)
+    * [Django](https://www.djangoproject.com)
+        * [REST Framework](https://www.django-rest-framework.org)
+    * [FastAPI](https://fastapi.tiangolo.com)
+    * [Flask](https://flask.palletsprojects.com)
 * JavsScript
-    * ReactJS
-        * React Router
-        * Styled Components
-    * NextJS
-    * Express
-    * NodeJS
-    * TypeScript
-    * IndexedDB
-    * Immer
+    * [ReactJS](https://reactjs.org)
+        * [React Router](https://reactrouter.com)
+        * [Styled Components](https://styled-components.com)
+    * [Next.js](https://nextjs.org)
+    * [ExpressJS](https://expressjs.com)
+    * [NodeJS](https://nodejs.org)
+    * [TypeScript](https://www.typescriptlang.org)
+    * [IndexedDB](https://github.com/jakearchibald/idb)
+    * [Immer](https://immerjs.github.io/immer)
+    * [MongoDB](https://www.mongodb.com)
+        * [Mongoose](https://mongoosejs.com)
     * Development environments
-        * WebPack 
-        * SnowPack
-        * Babel
-        * Prettier
+        * [Webpack](https://webpack.js.org)
+        * [Snowpack](https://www.snowpack.dev)
+        * [Babel](https://babeljs.io)
+        * [Prettier](https://prettier.io)
 * Deployment
-    * Docker
-    * docker-compose
-    * Nginx
-    * Vercel
+    * [Docker](https://www.docker.com)
+    * [docker-compose](https://docs.docker.com/compose)
+    * [Nginx](https://nginx.org)
+    * [Vercel](https://vercel.com)
 * Databases
-    * PSQL
+    * [PSQL](https://postgrespro.ru)
     * SQL
-    * SQLite
+    * [SQLite](https://www.sqlite.org)
+
 #### Contact:
 * Telegram: [@TUTORT](https://t.me/TUTORT)
 * Email: [artemss20030906@gmail.com](mailto:artemss20030906@gmail.com)

@@ -11,41 +11,46 @@
 
 ### Обо мне
 
-Молодой, 17-ти летний веб разработчик, активно занимаюсь изучением веб разработки с 2017 года. В качестве хобби участвую в различных CTF соревнованиях. На данный момент обучаюсь в Югорском Физико-Математическом Лицее, планирую поступать в университет ИТМО
+Молодой, 17-ти летний веб разработчик, активно занимаюсь изучением веб разработки с 2017 года.  
+Являюсь членом организации [S.S.H.&K.K.](https://github.com/SSH-KK).  
+В качестве хобби участвую в различных CTF соревнованиях и хакатонах.  
+На данный момент обучаюсь в 11 классе Югорского Физико-Математического Лицея, планирую поступать в университет ИТМО
 
 ---
 
 ### Навыки
 
-* Python
-    * Django
-        * REST Framework
-    * FastAPI
-    * Flask
+* [Python](https://www.python.org)
+    * [Django](https://www.djangoproject.com)
+        * [REST Framework](https://www.django-rest-framework.org)
+    * [FastAPI](https://fastapi.tiangolo.com)
+    * [Flask](https://flask.palletsprojects.com)
 * JavsScript
-    * ReactJS
-        * React Router
-        * Styled Components
-    * NextJS
-    * Express
-    * NodeJS
-    * TypeScript
-    * IndexedDB
-    * Immer
+    * [ReactJS](https://reactjs.org)
+        * [React Router](https://reactrouter.com)
+        * [Styled Components](https://styled-components.com)
+    * [Next.js](https://nextjs.org)
+    * [ExpressJS](https://expressjs.com)
+    * [NodeJS](https://nodejs.org)
+    * [TypeScript](https://www.typescriptlang.org)
+    * [IndexedDB](https://github.com/jakearchibald/idb)
+    * [Immer](https://immerjs.github.io/immer)
+    * [MongoDB](https://www.mongodb.com)
+        * [Mongoose](https://mongoosejs.com)
     * Development environments
-        * WebPack 
-        * SnowPack
-        * Babel
-        * Prettier
+        * [Webpack](https://webpack.js.org)
+        * [Snowpack](https://www.snowpack.dev)
+        * [Babel](https://babeljs.io)
+        * [Prettier](https://prettier.io)
 * Deployment
-    * Docker
-    * docker-compose
-    * Nginx
-    * Vercel
+    * [Docker](https://www.docker.com)
+    * [docker-compose](https://docs.docker.com/compose)
+    * [Nginx](https://nginx.org)
+    * [Vercel](https://vercel.com)
 * Databases
-    * PSQL
+    * [PSQL](https://postgrespro.ru)
     * SQL
-    * SQLite
+    * [SQLite](https://www.sqlite.org)
 
 
 ---

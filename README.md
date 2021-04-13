@@ -28,6 +28,7 @@
         * [Styled Components](https://styled-components.com)
     * [Next.js](https://nextjs.org)
     * [ExpressJS](https://expressjs.com)
+    * [Redux](https://redux.js.org)
     * [NodeJS](https://nodejs.org)
     * [TypeScript](https://www.typescriptlang.org)
     * [IndexedDB](https://github.com/jakearchibald/idb)

@@ -1,7 +1,22 @@
-## Stukalov Artem
-### Fullstack web developer
+# Артем Стукалов
+## Fullstack web developer
 
-#### Skills:
+> Email: artemss2003@yandex.ru  
+> Link: github.com/TUTOR03  
+> Telegram: @TUTORT  
+> Site: www.stuvars.com (not working now)
+
+---
+
+### Обо мне
+
+Молодой, 17-ти летний веб разработчик, активно занимаюсь изучением веб разработки с 2017 года.  
+Являюсь членом организации [S.S.H.&K.K.](https://github.com/SSH-KK).  
+В качестве хобби участвую в различных CTF соревнованиях и хакатонах.  
+На данный момент обучаюсь в 11 классе Югорского Физико-Математического Лицея, планирую поступать в университет ИТМО
+
+---
+### Skills:
 * [Python](https://www.python.org)
     * [Django](https://www.djangoproject.com)
         * [REST Framework](https://www.django-rest-framework.org)
@@ -33,11 +48,6 @@
     * [PSQL](https://postgrespro.ru)
     * SQL
     * [SQLite](https://www.sqlite.org)
-
-#### Contact:
-* Telegram: [@TUTORT](https://t.me/TUTORT)
-* Email: [artemss20030906@gmail.com](mailto:artemss20030906@gmail.com)
-* Site: www.stuvars.com
-
+ 
 <a href="http://stuvars.com/"><img height="150" src="https://github-readme-stats.vercel.app/api?username=TUTOR03&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUTOR03&layout=compact&theme=dark" /></a>

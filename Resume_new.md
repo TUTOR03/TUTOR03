@@ -1,7 +1,6 @@
 # Артем Стукалов
 ## Fullstack web developer
 
-> Phone: 89224490026  
 > Email: artemss2003@yandex.ru  
 > Link: github.com/TUTOR03  
 > Telegram: @TUTORT  

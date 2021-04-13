@@ -31,6 +31,7 @@
     * [Next.js](https://nextjs.org)
     * [ExpressJS](https://expressjs.com)
     * [NodeJS](https://nodejs.org)
+    * [Redux](https://redux.js.org)
     * [TypeScript](https://www.typescriptlang.org)
     * [IndexedDB](https://github.com/jakearchibald/idb)
     * [Immer](https://immerjs.github.io/immer)

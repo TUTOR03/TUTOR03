@@ -4,7 +4,7 @@
 > Email: artemss2003@yandex.ru  
 > Link: github.com/TUTOR03  
 > Telegram: @TUTORT  
-> Site: www.stuvars.com (not working now)
+> Site: www.stuvars.com (isn't working now)
 
 ---
 

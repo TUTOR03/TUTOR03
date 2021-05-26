@@ -87,9 +87,13 @@
 
 ### Проекты
 
+#### GoHackathon
+* github.com/SSH-KK/goHackathon
+* Веб-клиент для игры в ГО с использованием ИИ 'Leela zero' в качестве помощника - Задание для финала хакатона НТИ 'Цифровые кентавры'
+* ReactJS + Docker + Redux + Saga
 #### KGS LeaderBoard
 * github.com/SSH-KK/KGS_LeaderBoard
-* Вебприложение дляпросмотра партий игры ГО с сайта www.gokgs.com - Отборочное задание для хакатона НТИ
+* Веб-приложение дляпросмотра партий игры ГО с сайта www.gokgs.com - Отборочное задание для хакатона НТИ 'Цифровые кентавры'
 * ReacJS + Brython + IndexedDB + Docker + Nginx
 
 #### Timetable Generator
@@ -99,7 +103,7 @@
 
 #### CTF Platform
 * github.com/TUTOR03/CTF_platform
-* Веб приложение для проведения CTF соревнований для образовательной организации (ЮФМЛ)
+* Веб-приложение для проведения CTF соревнований для образовательной организации (ЮФМЛ)
 * ReactJS + Django
 
 #### FastAPI URLShortener TelegramBot

@@ -10,13 +10,23 @@
 
 ### Обо мне
 
-Молодой, 18-ти летний веб разработчик, активно занимаюсь изучением веб разработки с 2017 года.  
-Являюсь членом организации [S.S.H.&K.K.](https://github.com/SSH-KK).  
-В качестве хобби участвую в различных CTF соревнованиях и хакатонах.  
-На данный момент обучаюсь в 11 классе Югорского Физико-Математического Лицея, планирую поступать в университет ИТМО
+Молодой, 18-ти летний веб разработчик, активно занимаюсь изучением веб разработки с 2017 года  
+Являюсь членом организации [S.S.H.&K.K.](https://github.com/SSH-KK)  
+В качестве хобби участвую в различных CTF соревнованиях и хакатонах  
+На данный момент обучаюсь в университете ИТМО на факультете прикладной информатики
 
 ---
-### Skills:
+
+### Опыт работы
+
+#### ВКонтакте
+* Младший веб-разработчик месенджера
+* 12/07/2021 - сейчас
+
+---
+
+### Навыки
+
 * [Python](https://www.python.org)
     * [Django](https://www.djangoproject.com)
         * [REST Framework](https://www.django-rest-framework.org)
@@ -28,8 +38,8 @@
         * [Styled Components](https://styled-components.com)
     * [Next.js](https://nextjs.org)
     * [ExpressJS](https://expressjs.com)
-    * [Redux](https://redux.js.org)
     * [NodeJS](https://nodejs.org)
+    * [Redux](https://redux.js.org)
     * [TypeScript](https://www.typescriptlang.org)
     * [IndexedDB](https://github.com/jakearchibald/idb)
     * [Immer](https://immerjs.github.io/immer)

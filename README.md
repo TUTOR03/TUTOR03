@@ -6,6 +6,8 @@
 > Telegram: @TUTORT  
 > Site: www.stuvars.com (isn't working now)
 
+*[Полное резюме](https://github.com/TUTOR03/TUTOR03/blob/main/Resume_new.md)
+
 ---
 
 ### Обо мне

@@ -23,7 +23,7 @@ I am a member of the organization [S.S.H.&K.K.](https://github.com/SSH-KK)
 
 ### Work experience
 
-#### [VKcontecte(VK)](https://vk.com)
+#### [VKcontacte(VK)](https://vk.com)
 
 - Junior Messenger Web Developer (Intern)
 - 12/07/2021 - 10/09/2021

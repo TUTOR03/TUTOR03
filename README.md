@@ -6,8 +6,8 @@
 - Link: github.com/TUTOR03  
 - Telegram: @TUTORT
 
-\*[Full resume en](https://github.com/TUTOR03/TUTOR03/blob/main/Full_resume_en.md)  
-\*[Full resume ru](https://github.com/TUTOR03/TUTOR03/blob/main/Full_resume_ru.md)
+\*[Full resume en](https://github.com/TUTOR03/TUTOR03/blob/main/Full_resume_en.pdf)  
+\*[Full resume ru](https://github.com/TUTOR03/TUTOR03/blob/main/Full_resume_ru.pdf)
 
 ---
 

@@ -1,36 +1,3 @@
-<style type="text/css">
-body{
-  font-size: 13px;
-  line-height: 22px;
-}
-h1,h2,h3,h4,h5 {
-  margin-bottom: 0;
-}
-h1,h2,h3{
-  font-weight:bold;
-}
-h2{
-  margin-top: 0.5em;
-  margin-bottom: 0.3em;
-}
-h4{
-  margin-top:0;
-  font-weight:400;
-}
-h3{
-  margin-top:0.5em;
-}
-p{
-  margin-top:0;
-}
-ul{
-  margin-top:0;
-}
-hr{
-  margin: 0;
-}
-</style>
-
 # Artem Stukalov
 
 ## Fullstack web developer

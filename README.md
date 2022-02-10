@@ -21,7 +21,7 @@ Currently studying at ITMO University at the Faculty of Applied Informatics
 
 ### Work experience
 
-#### [VK](https://vk.com) (12/07/2021 - current)
+#### [VK](https://vk.com) (17/01/2022 - current)
 
 - Junior Messenger Web Developer
 - Main development stack: ReactJS, TypeScript, Immer

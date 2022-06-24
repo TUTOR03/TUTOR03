@@ -10,7 +10,7 @@
 
 ### About me
 
-I am an 18 years old web developer improving my skills since 2017  
+I am an 19 years old web developer improving my skills since 2017  
 As a hobby I participate in various CTF competitions and hackathons  
 Currently studying at ITMO University at the Faculty of Applied Informatics
 

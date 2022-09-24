@@ -2,8 +2,8 @@
 
 ## Fullstack Web Developer
 
-- Email: artemss2003@yandex.ru  
-- Link: github.com/TUTOR03  
+- Email: artemss2003@yandex.ru
+- Link: github.com/TUTOR03
 - Telegram: @TUTORT
 
 ---
@@ -18,22 +18,27 @@
 
 ### Опыт работы
 
-#### [ВК](https://vk.com) (17/01/2022 - сейчас)
+#### [ВК](https://vk.com) (19/09/2022 - сейчас)
 
-- Младший веб-разработчик месенджера
+- Веб-разработчик месенджера(middle)
+- Основной стек разработки: ReactJS, TypeScript, Immer
+
+#### [ВК](https://vk.com) (17/01/2022 - 19/09/2022)
+
+- Младший веб-разработчик месенджера(junior)
 - Основной стек разработки: ReactJS, TypeScript, Immer
 
 #### [ВК](https://vk.com) (12/07/2021 - 10/09/2021)
 
-- Младший веб-разработчик месенджера(стажер)
+- Cтажер команды веб-разработки месенджера(intern)
 - Основной стек разработки: ReactJS, TypeScript, Immer
 
 ---
 
 ### Навыки
 
+- JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org), [React-Redux](https://react-redux.js.org)
 - [Python](https://www.python.org) : [Django](https://www.djangoproject.com), [FastAPI](https://fastapi.tiangolo.com), [Flask](https://flask.palletsprojects.com)
-- JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org)
 - Deployment: [Docker](https://www.docker.com), [docker-compose](https://docs.docker.com/compose), [Nginx](https://nginx.org), [Vercel](https://vercel.com)
 - Databases: [PSQL](https://postgrespro.ru), [MongoDB](https://www.mongodb.com), SQL, [SQLite](https://www.sqlite.org)
 
@@ -74,6 +79,7 @@
 ### Проекты
 
 #### ProjectFinder
+
 - [github.com/TUTOR03/project-finder-backend](github.com/TUTOR03/project-finder-backend)(бэкенд)
 - Сервис для командообразования и рекрутинга в формате популярного сервиса Tinder
 - Python + FastAPI + ReactJS + Redux + MUI + TypeScript + MongoDB + Docker + Nginx
@@ -95,27 +101,3 @@
 - [github.com/SSH-KK/timetable-generator](github.com/SSH-KK/timetable-generator)
 - Конструктор расписаний для образовательной организации (ЮФМЛ) c отслеживанием ошибок пересечения занятий
 - ReactJS + TypeScript + Vercel
-
-#### CTF Platform
-
-- [github.com/TUTOR03/CTF_platform](github.com/TUTOR03/CTF_platform)
-- Веб-приложение для проведения CTF соревнований для образовательной организации (ЮФМЛ)
-- ReactJS + Django
-
-#### FastAPI URLShortener TelegramBot
-
-- [github.com/TUTOR03/FastAPI_URLShortener_Telegram](github.com/TUTOR03/FastAPI_URLShortener_Telegram)
-- API для сокращения ссылок с отслеживанием статистики посещений и возможностью использования через телеграммбота
-- FastAPI + Alembic + PSQL + Docker + Nginx
-
-#### Winduoff
-
-- [www.npmjs.com/package/winduoff](www.npmjs.com/package/winduoff)
-- NPM CLI приложение для пользователей windows, предназначенное для контроля и отключения ненужных сервисов
-- NodeJS
-
-#### University Bot
-
-- [github.com/TUTOR03/University_BOT](github.com/TUTOR03/University_BOT)
-- Телеграмм бот, позволяющий студентам платить за решение заданий, а также получать деньги за выполнение этих заданий. Мини фриланс биржа в телеграмме
-- Python + Flask + PSQL

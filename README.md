@@ -2,8 +2,8 @@
 
 ## Fullstack web developer
 
-- Email: artemss2003@yandex.ru  
-- Link: github.com/TUTOR03  
+- Email: artemss2003@yandex.ru
+- Link: github.com/TUTOR03
 - Telegram: @TUTORT
 
 \*[Full resume en](https://github.com/TUTOR03/TUTOR03/blob/main/Full_resume_en.pdf)  
@@ -21,22 +21,27 @@ Currently studying at ITMO University at the Faculty of Applied Informatics
 
 ### Work experience
 
-#### [VK](https://vk.com) (17/01/2022 - current)
+#### [VK](https://vk.com) (19/09/2022 - current)
 
-- Junior Messenger Web Developer
+- Middle messenger web developer
+- Main development stack: ReactJS, TypeScript, Immer
+
+#### [VK](https://vk.com) (17/01/2021 - 19/09/2022)
+
+- Junior messenger web developer
 - Main development stack: ReactJS, TypeScript, Immer
 
 #### [VK](https://vk.com) (12/07/2021 - 10/09/2021)
 
-- Junior Messenger Web Developer (Intern)
+- Intenr of web messenger team
 - Main development stack: ReactJS, TypeScript, Immer
 
 ---
 
 ### Skills
 
+- JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org), [React-Redux](https://react-redux.js.org)
 - [Python](https://www.python.org) : [Django](https://www.djangoproject.com), [FastAPI](https://fastapi.tiangolo.com), [Flask](https://flask.palletsprojects.com)
-- JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org)
 - Deployment: [Docker](https://www.docker.com), [docker-compose](https://docs.docker.com/compose), [Nginx](https://nginx.org), [Vercel](https://vercel.com)
 - Databases: [PSQL](https://postgrespro.ru), [MongoDB](https://www.mongodb.com), SQL, [SQLite](https://www.sqlite.org)
 

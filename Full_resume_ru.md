@@ -2,7 +2,7 @@
 
 ## Fullstack Web Developer
 
-- Email: artemss2003@yandex.ru
+- Email: stukalov.dev@gmail.com
 - Link: github.com/TUTOR03
 - Telegram: @TUTORT
 

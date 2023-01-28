@@ -2,7 +2,7 @@
 
 ## Fullstack web developer
 
-- Email: artemss2003@yandex.ru
+- Email: stukalov.dev@gmail.com
 - Link: github.com/TUTOR03
 - Telegram: @TUTORT
 
@@ -26,7 +26,7 @@ Currently studying at ITMO University at the Faculty of Applied Informatics
 - Middle messenger web developer
 - Main development stack: ReactJS, TypeScript, Immer
 
-#### [VK](https://vk.com) (17/01/2021 - 19/09/2022)
+#### [VK](https://vk.com) (17/01/2022 - 19/09/2022)
 
 - Junior messenger web developer
 - Main development stack: ReactJS, TypeScript, Immer

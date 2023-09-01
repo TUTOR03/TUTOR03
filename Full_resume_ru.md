@@ -10,7 +10,7 @@
 
 ### About me
 
-Являюсь 19-ти летним разработчиком, активно изучающим веб-разработку с 2017 года.  
+Являюсь 20-ти летним разработчиком, активно изучающим веб-разработку с 2017 года.  
 В качестве хобби участвую в различных CTF соревнованиях и хакатонах.  
 На данный момент обучаюсь в университете ИТМО на факультете прикладной информатики.
 
@@ -38,6 +38,7 @@
 ### Навыки
 
 - JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org), [React-Redux](https://react-redux.js.org)
+- [Rust](https://www.rust-lang.org/)
 - [Python](https://www.python.org) : [Django](https://www.djangoproject.com), [FastAPI](https://fastapi.tiangolo.com), [Flask](https://flask.palletsprojects.com)
 - Deployment: [Docker](https://www.docker.com), [docker-compose](https://docs.docker.com/compose), [Nginx](https://nginx.org), [Vercel](https://vercel.com)
 - Databases: [PSQL](https://postgrespro.ru), [MongoDB](https://www.mongodb.com), SQL, [SQLite](https://www.sqlite.org)

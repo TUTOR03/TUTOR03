@@ -3,9 +3,9 @@
 ## Fullstack Web Developer
 
 - Email: stukalov.dev@gmail.com
-- Site: [github.com/TUTOR03](github.com/TUTOR03)
-- Telegram: [@stukalov_dev](t.me/stukalov_dev)
-- LinkedIn: [www.linkedin.com/in/stdev](www.linkedin.com/in/stdev)
+- Site: [github.com/TUTOR03](https://github.com/TUTOR03)
+- Telegram: [@stukalov_dev](https://t.me/stukalov_dev)
+- LinkedIn: [www.linkedin.com/in/stdev](https://www.linkedin.com/in/stdev)
 
 \*[Full resume en](https://github.com/TUTOR03/TUTOR03/blob/main/full-resume-en.pdf)  
 \*[Full resume ru](https://github.com/TUTOR03/TUTOR03/blob/main/full-resume-ru.pdf)
@@ -20,7 +20,7 @@ A Javascript web developer since 2018. Obsessed with modern web technologies. Bi
 
 ### Work experience
 
-#### [VK](vk.com)
+#### [VK](https://vk.com)
 
 Main dev stack: ReactJS, TypeScript, Immer, Rust, KPHP
 
@@ -42,11 +42,11 @@ Main dev stack: ReactJS, TypeScript, Immer, Rust, KPHP
 
 ### Skills
 
-- JavsScript: [ReactJS](reactjs.org), [Next.js](nextjs.org), [ExpressJS](expressjs.com), [NodeJS](nodejs.org), [Redux](redux.js.org), [TypeScript](www.typescriptlang.org), [IndexedDB](github.com/jakearchibald/idb), [Immer](immerjs.github.io/immer), [Mongoose](mongoosejs.com), [Webpack](webpack.js.org), [Snowpack](www.snowpack.dev), [Babel](babeljs.io), [Prettier](prettier.io), [RollupJS](rollupjs.org), [React-Redux](react-redux.js.org), [SWC](swc.rs), WebGL, Webassembly
-- [Rust](www.rust-lang.org): Tokio, Diesel, Nom
-- [Python](www.python.org) : [Django](www.djangoproject.com), [FastAPI](fastapi.tiangolo.com), [Flask](flask.palletsprojects.com)
-- DevOps: [Docker](www.docker.com), [docker-compose](docs.docker.com/compose), [Nginx](nginx.org), [Vercel](vercel.com)
-- Databases: [PSQL](postgrespro.ru), [MongoDB](www.mongodb.com), [Redis](redis.io)
+- JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org), [React-Redux](https://react-redux.js.org), [SWC](https://swc.rs), WebGL, Webassembly
+- [Rust](https://www.rust-lang.org): Tokio, Diesel, Nom
+- [Python](https://www.python.org) : [Django](https://www.djangoproject.com), [FastAPI](https://fastapi.tiangolo.com), [Flask](https://flask.palletsprojects.com)
+- DevOps: [Docker](https://www.docker.com), [docker-compose](https://docs.docker.com/compose), [Nginx](https://nginx.org), [Vercel](https://vercel.com)
+- Databases: [PSQL](https://postgrespro.ru), [MongoDB](https://www.mongodb.com), [Redis](https://redis.io)
 
 ---
 

@@ -3,9 +3,9 @@
 ## Fullstack Web Developer
 
 - Email: stukalov.dev@gmail.com
-- Site: [github.com/TUTOR03](github.com/TUTOR03)
-- Telegram: [@stukalov_dev](t.me/stukalov_dev)
-- LinkedIn: [www.linkedin.com/in/stdev](www.linkedin.com/in/stdev)
+- Site: [github.com/TUTOR03](https://github.com/TUTOR03)
+- Telegram: [@stukalov_dev](https://t.me/stukalov_dev)
+- LinkedIn: [www.linkedin.com/in/stdev](https://www.linkedin.com/in/stdev)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### Опыт работы
 
-#### [VK](vk.com)
+#### [VK](https://vk.com)
 
 Стек разработки: ReactJS, TypeScript, Immer, Rust, KPHP
 
@@ -39,11 +39,11 @@
 
 ### Навыки
 
-- JavsScript: [ReactJS](reactjs.org), [Next.js](nextjs.org), [ExpressJS](expressjs.com), [NodeJS](nodejs.org), [Redux](redux.js.org), [TypeScript](www.typescriptlang.org), [IndexedDB](github.com/jakearchibald/idb), [Immer](immerjs.github.io/immer), [Mongoose](mongoosejs.com), [Webpack](webpack.js.org), [Snowpack](www.snowpack.dev), [Babel](babeljs.io), [Prettier](prettier.io), [RollupJS](rollupjs.org), [React-Redux](react-redux.js.org), [SWC](swc.rs), WebGL, Webassembly
-- [Rust](www.rust-lang.org): Tokio, Diesel, Nom
-- [Python](www.python.org) : [Django](www.djangoproject.com), [FastAPI](fastapi.tiangolo.com), [Flask](flask.palletsprojects.com)
-- DevOps: [Docker](www.docker.com), [docker-compose](docs.docker.com/compose), [Nginx](nginx.org), [Vercel](vercel.com)
-- Databases: [PSQL](postgrespro.ru), [MongoDB](www.mongodb.com), [Redis](redis.io)
+- JavsScript: [ReactJS](https://reactjs.org), [Next.js](https://nextjs.org), [ExpressJS](https://expressjs.com), [NodeJS](https://nodejs.org), [Redux](https://redux.js.org), [TypeScript](https://www.typescriptlang.org), [IndexedDB](https://github.com/jakearchibald/idb), [Immer](https://immerjs.github.io/immer), [Mongoose](https://mongoosejs.com), [Webpack](https://webpack.js.org), [Snowpack](https://www.snowpack.dev), [Babel](https://babeljs.io), [Prettier](https://prettier.io), [RollupJS](https://rollupjs.org), [React-Redux](https://react-redux.js.org), [SWC](https://swc.rs), WebGL, Webassembly
+- [Rust](https://www.rust-lang.org): Tokio, Diesel, Nom
+- [Python](https://www.python.org) : [Django](https://www.djangoproject.com), [FastAPI](https://fastapi.tiangolo.com), [Flask](https://flask.palletsprojects.com)
+- DevOps: [Docker](https://www.docker.com), [docker-compose](https://docs.docker.com/compose), [Nginx](https://nginx.org), [Vercel](https://vercel.com)
+- Databases: [PSQL](https://postgrespro.ru), [MongoDB](https://www.mongodb.com), [Redis](https://redis.io)
 
 ---
 
@@ -78,24 +78,24 @@
 
 #### ProjectFinder
 
-- [github.com/TUTOR03/project-finder-backend](github.com/TUTOR03/project-finder-backend)(бэкенд)
+- [github.com/TUTOR03/project-finder-backend](https://github.com/TUTOR03/project-finder-backend)(бэкенд)
 - Сервис для командообразования и рекрутинга в формате популярного сервиса Tinder
 - Python + FastAPI + ReactJS + Redux + MUI + TypeScript + MongoDB + Docker + Nginx
 
 #### GoHackathon
 
-- [github.com/SSH-KK/goHackathon](github.com/SSH-KK/goHackathon)
+- [github.com/SSH-KK/goHackathon](https://github.com/SSH-KK/goHackathon)
 - Веб-клиент для игры в ГО с использованием ИИ 'Leela zero' в качестве помощника - Задание для финала хакатона НТИ 'Цифровые кентавры'
 - ReactJS + Docker + Redux + Saga
 
 #### KGS LeaderBoard
 
-- [github.com/SSH-KK/KGS_LeaderBoard](github.com/SSH-KK/KGS_LeaderBoard)
+- [github.com/SSH-KK/KGS_LeaderBoard](https://github.com/SSH-KK/KGS_LeaderBoard)
 - Веб-приложение дляпросмотра партий игры ГО с сайта www.gokgs.com - Отборочное задание для хакатона НТИ 'Цифровые кентавры'
 - ReacJS + Brython + IndexedDB + Docker + Nginx
 
 #### Timetable Generator
 
-- [github.com/SSH-KK/timetable-generator](github.com/SSH-KK/timetable-generator)
+- [github.com/SSH-KK/timetable-generator](https://github.com/SSH-KK/timetable-generator)
 - Конструктор расписаний для образовательной организации (ЮФМЛ) c отслеживанием ошибок пересечения занятий
 - ReactJS + TypeScript + Vercel

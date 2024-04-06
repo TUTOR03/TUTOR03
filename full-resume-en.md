@@ -7,9 +7,6 @@
 - Telegram: [@stukalov_dev](t.me/stukalov_dev)
 - LinkedIn: [www.linkedin.com/in/stdev](www.linkedin.com/in/stdev)
 
-\*[Full resume en](https://github.com/TUTOR03/TUTOR03/blob/main/full-resume-en.pdf)  
-\*[Full resume ru](https://github.com/TUTOR03/TUTOR03/blob/main/full-resume-ru.pdf)
-
 ---
 
 ### About me
@@ -50,4 +47,55 @@ Main dev stack: ReactJS, TypeScript, Immer, Rust, KPHP
 
 ---
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUTOR03&layout=compact&theme=dark" /></a>
+### Languages
+
+- English: _Upper Intermediate(B2)_
+- Russian: _Native_
+
+---
+
+### Education
+
+#### ITMO University - Faculty of Information and Communication Technologies (Applied Informatics)
+
+- 09/2021 - now
+- St. Petersburg
+
+---
+
+### Achievements
+
+- Prize-winner at the ITMO Olympiad in Informatics 2019-2020
+- Winner and medalist of CTF competitions: UgraCTF, UralCTF, InnoCTF 2019-2021
+- Winner of the NTI hackathon "Mind Games" 2021
+- Prize-winner of the NTI Olympiad in information security
+- Prizewinner of the Olympiad in Computer Security named after V.I. I. Ya Verchenko
+- Winner of the Huntaton 2020 hackathon
+
+---
+
+### Projects
+
+#### ProjectFinder
+
+- [github.com/TUTOR03/project-finder-backend](github.com/TUTOR03/project-finder-backend)(бэкенд)
+- Service for team building and recruiting in the format of the popular Tinder service
+- Python + FastAPI + ReactJS + Redux + MUI + TypeScript + MongoDB + Docker + Nginx
+
+#### GoHackathon
+
+- [github.com/SSH-KK/goHackathon](github.com/SSH-KK/goHackathon)
+- Web client for playing GO using AI 'Leela zero' as an assistant - Task for the final of the NTI hackathon 'Digital Centaurs'
+- ReactJS + Docker + Redux + Saga
+
+#### KGS LeaderBoard
+
+- [github.com/SSH-KK/KGS_LeaderBoard](github.com/SSH-KK/KGS_LeaderBoard)
+- Web application for viewing the games of the GO game from the website www.gokgs.com - Selection task for the NTI hackathon 'Digital Centaurs'
+- ReacJS + Brython + IndexedDB + Docker + Nginx
+
+#### Timetable Generator
+
+- [github.com/SSH-KK/timetable-generator](github.com/SSH-KK/timetable-generator)
+- Schedule constructor for an educational organization (UPML) with tracking errors of intersection of classes
+- ReactJS + TypeScript + Vercel
